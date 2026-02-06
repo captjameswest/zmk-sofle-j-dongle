@@ -82,8 +82,8 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE   &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_NUMBER_4  &kp KP_NUMBER_5    &mmv MOVE_UP     &kp KP_NUMBER_6  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0   &trans
-&trans      &kp GRAVE        &mkp LCLK        &mkp MCLK        &mkp RCLK        &mkp MB4           &mmv MOVE_DOWN   &kp PG_UP        &kp END          &kp UP           &kp HOME         &kp MINUS         &kp EQUAL
+&kp I       &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_NUMBER_4  &kp KP_NUMBER_5    &mmv MOVE_UP     &kp KP_NUMBER_6  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0   &trans
+&kp O       &kp GRAVE        &mkp LCLK        &mkp MCLK        &mkp RCLK        &mkp MB4           &mmv MOVE_DOWN   &kp PG_UP        &kp END          &kp UP           &kp HOME         &kp MINUS         &kp EQUAL
 &trans      &kp TILDE        &trans           &trans           &trans           &mkp MB5           &mmv MOVE_LEFT   &kp PG_DN        &kp LEFT         &kp DOWN         &kp RIGHT        &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON   &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &kp INSERT       &kp F11          &kp F12           &trans
 &kp C_MUTE  &trans           &trans           &kp KP_MINUS     &kp KP_ENTER     &kp KP_PLUS        &mkp LCLK        &kp KP_MINUS     &kp KP_ENTER     &kp KP_PLUS      &trans           &trans
